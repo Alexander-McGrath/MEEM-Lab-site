@@ -1,8 +1,8 @@
 ---
-title: Team
+title: About
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About me
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -26,9 +26,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Headshot.jpg" %}
 
 {% endcapture %}
 
