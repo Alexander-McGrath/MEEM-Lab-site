@@ -3,19 +3,10 @@
   description: Reintroducing a keystone bioturbator can facilitate microbial bioremediation in urban polluted sediments
   date: 2023-1-5
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0269749123004219-ga1.jpg
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
   tags:
     - open science
     - Microbial remediation
     - Urban ecology
-  repo: greenelab/meta-review
 
 - id: https://doi.org/10.21203/rs.3.rs-3012963/v1
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
